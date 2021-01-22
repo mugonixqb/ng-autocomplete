@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * Generated from: angular-ng-autocomplete.ts
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { AutocompleteLibComponent, AutocompleteCustLibModule, AutocompleteComponent, HighlightPipe } from './public_api';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYW5ndWxhci1uZy1hdXRvY29tcGxldGUuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL3RhcGl3YW5hc2hlbXVnb25pd2EvTm9kZVByb2plY3RzL2FuZ3VsYXItbmctYXV0b2NvbXBsZXRlL3Byb2plY3RzL2F1dG9jb21wbGV0ZS1saWIvc3JjLyIsInNvdXJjZXMiOlsiYW5ndWxhci1uZy1hdXRvY29tcGxldGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFJQSwwR0FBYyxjQUFjLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIEdlbmVyYXRlZCBidW5kbGUgaW5kZXguIERvIG5vdCBlZGl0LlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vcHVibGljX2FwaSc7XG4iXX0=
